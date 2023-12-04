@@ -1,6 +1,6 @@
 [package]
 name = "debug_utils"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Uriah G. <codeitlikemiley@gmail.com>"]
 description = "A utility crate for enhanced debugging in Rust"
 license = "MIT"
