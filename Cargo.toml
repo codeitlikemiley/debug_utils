@@ -1,0 +1,11 @@
+[package]
+name = "debug_utils"
+version = "0.1.0"
+authors = ["Uriah G. <codeitlikemiley@gmail.com>"]
+description = "A utility crate for enhanced debugging in Rust"
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
