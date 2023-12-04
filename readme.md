@@ -7,7 +7,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-debug_utils = "0.1.0"
+debug_utils = "*"
 ```
 
 ## Usage
@@ -24,4 +24,3 @@ Outputs: {var} <{type}> = {value}
 ```shell
 {x} <i32> = 42
 ```
-
